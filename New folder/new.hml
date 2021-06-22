@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://fonts.googlapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900|Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i">
+        <link rel="stylesheet" href="style.css">
+        <title><womxn class="com"></womxn></title>
+    </head>
+    <body>
+        <header>
+            <a href="index.html" class="header-brand">Chiamaka Essonna</a>
+            <nav>
+                <ul>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="about.html">About Me</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <a href="cases.html" class="header-cases">Cases</a>
+            </nav>
+        </header>
+        <main>
+            <section class="index-banner">
+                <div class="vertical-center">
+                    <h2>I AM A FREELANCE WEB <br> DEVELOPER</h2>
+                    <h1>With specialty in HTML, CSS, JavaScript, PHP</h1>
+                </div>
+            </section>
+            <div class="wrapper">
+            <section class="index-links">
+                <a href="cases.html">
+                    <div class="index-boxlink-square">
+                    <h3>Cases</h3>
+                    </div>
+                </a>
+                <a href="portfolio.html">
+                    <div class="index-boxlink-rectangle">
+                        <h3>Portfolio</h3>
+                    </div>
+                </a>
+                <a href="index.html">
+                    <div class="index-boxlink-square">
+                        <h3>womxn</h3>
+                    </div>
+                </a>
+                <a href="youtube.html">
+                    <div class="index-boxlink-rectangle">
+                        <h3>Youtube Channel</h3>
+                    </div>
+                </a>
+                <a href="about.html">
+                    <div class="index-boxlink-square">
+                        <h3>About</h3>
+                    </div>
+                </a>
+                <a href="contact.html">
+                    <div class="index-boxlink-square">
+                        <h3>Contact</h3>
+                    </div>
+                </a>
+            </section>
+            </div>
+        </main>
+        <div class="wrapper">
+            <footer>
+                <ul class="footer-links-main">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="cases.html">Cases</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="about.html">About Me</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <ul class="footer-links-cases">
+                    <li><p>Latest Cases</p></li>
+                    <li><a href="cases.html">Cases</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="about.html">About Me</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="footer-sm">
+                    <a href="beautifulessonna@gmail.com">
+                        <img src="images/gmailicon.jpeg" alt="gmail icon">
+                    </a>
+                    <a href="https://twitter.com/chixmxkx">
+                        <img src="images/twittericon.jpeg" alt="twitter icon">
+                    </a>
+                    <a href="https://instagram.com/chixmxkx">
+                        <img src="images/instagramicon.jpeg" alt="instagram icon">
+                    </a>
+                    <a href="">
+                        <img src="images/githubicon.jpeg" alt="github icon">
+                    </a>
+                    <a href="https://linkedin.com/in/chiamaka-essonna-b42021192">
+                        <img src="images/linkedinicon.jpeg" alt="linkedin icon">
+                    </a>
+                </div>
+            </footer>
+        </div>
+    </body>
+</html>
